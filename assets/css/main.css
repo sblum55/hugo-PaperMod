@@ -16,7 +16,7 @@
 
 .pagination a {
     color: var(--theme);
-    font-size: 13px;
+    font-size: 25px;
     line-height: 36px;
     background: var(--primary);
     border-radius: calc(36px / 2);
@@ -36,8 +36,8 @@
 }
 
 .social-icons a svg {
-    height: 26px;
-    width: 26px
+    height: 15px;
+    width: 15px
 }
 
 code {
